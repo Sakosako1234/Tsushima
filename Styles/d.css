@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://files.tecnoblog.net/wp-content/uploads/2020/07/ghost-of-tsushima-1.jpg);
+     background-repeat: no-repeat; 
+    background-size: 100% 100%;
+     font-family: 'Bitter', serif;
+      color: white; 
+     text-align: center;
+      background-attachment: fixed;
+    } 
+#Ghost{
+    background-color: rgb(105, 36, 36);
+     padding: 30px;
+    }
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: xx-large;
+}
+a:visited{
+    color:white;
+    text-decoration: none;
+    font-size: xx-large;
+}
+div{
+    margin-top: 100px;
+    padding: 50px;
+}
+#A{
+    background-color: rgb(173, 52, 52); 
+}
+#B{
+    background-color: rgb(75, 4, 4);
+}
+#C{
+    background-color: rgb(94, 47, 47);
+}
