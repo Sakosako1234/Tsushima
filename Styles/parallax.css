@@ -68,3 +68,52 @@ a:visited{
 #F:hover{
     background-color:rgba(194, 167, 100, 0.7)
 }
+.Animation{
+    width: 60px;
+    height: 50px;
+    animation-name: fall;
+    animation-duration: 25s;
+    animation-iteration-count: infinite;
+    position: relative;
+    margin: 10px;
+}
+.Animation2{
+    width: 60px;
+    height: 50px;
+    animation-name: fall;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    position: relative;
+    margin: 10px;
+}
+.Animation3{
+    width: 60px;
+    height: 50px;
+    animation-name: fall;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+    position: relative;
+    margin: 10px;
+}
+.Animation4{
+    width: 60px;
+    height: 50px;
+    animation-name: fall;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    position: relative;
+    margin: 10px;
+}
+.Animation5{
+    width: 60px;
+    height: 50px;
+    animation-name: fall;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    position: relative;
+    margin: 10px;
+}
+@keyframes fall{
+    0%{top:0px}
+    100%{top:4600px}
+}
